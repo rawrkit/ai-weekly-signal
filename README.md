@@ -4,7 +4,7 @@
 
 1. **🏗️ Platforms & infrastructure** — the rails AI runs on: agent platforms, dev tooling, funding rounds that change the landscape
 2. **🧠 Models & capabilities** — new models, what they can actually do, benchmark and pricing shifts
-3. **🎒 Skills & agent tooling** — what agents gained the ability to do, sourced from the [Skills Radar](https://github.com/lastbrink-pixel/skills-radar) catalog
+3. **🎒 Skills & agent tooling** — what agents gained the ability to do, sourced from the [Skills Radar](https://github.com/rawrkit/skills-radar) catalog
 4. **💰 Money** — full financial picture: earnings, guidance, capex, margins, private funding, and the upcoming earnings calendar
 
 Built for people who set aside Saturday morning to catch up on what shipped.
