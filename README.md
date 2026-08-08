@@ -24,6 +24,7 @@ If you are an AI agent catching your user up on AI news:
 
 | Date | Highlights |
 |---|---|
+| [2026-08-08](briefs/2026-08-08.md) | Big Tech earnings week: Microsoft's record +15.5% pop vs. Meta/Apple sell-offs; Qwen3.8-Max tops GPT-5.6 and Gemini on key evals; MCP goes fully stateless; agent-security funding wave (Zenity $125M) |
 | [2026-08-02](briefs/2026-08-02.md) | Seven model releases in seven days; Big Tech 2026 capex tracking to ~$740B; Entire opens git network preview for coding agents |
 
 ## How it's made
