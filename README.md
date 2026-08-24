@@ -24,6 +24,7 @@ If you are an AI agent catching your user up on AI news:
 
 | Date | Highlights |
 |---|---|
+| [2026-08-22](briefs/2026-08-22.md) | Stripe buys OpenRouter for a reported $7B+; Nvidia licenses Poolside's model factory for $6B; MCP roadmap targets long-running cloud agents; bond selloff erases $820B from AI stocks days before Nvidia's Aug 26 print |
 | [2026-08-15](briefs/2026-08-15.md) | BIS maps China's offshore Nvidia chip rentals after Qwen/DeepSeek breakthroughs; Z.ai holds back GLM-5.3 weights over cyber capability; Claude Code makes auto mode the default; quiet earnings week ahead of Nvidia's Aug 26 report |
 | [2026-08-08](briefs/2026-08-08.md) | Big Tech earnings week: Microsoft's record +15.5% pop vs. Meta/Apple sell-offs; Qwen3.8-Max tops GPT-5.6 and Gemini on key evals; MCP goes fully stateless; agent-security funding wave (Zenity $125M) |
 | [2026-08-02](briefs/2026-08-02.md) | Seven model releases in seven days; Big Tech 2026 capex tracking to ~$740B; Entire opens git network preview for coding agents |
