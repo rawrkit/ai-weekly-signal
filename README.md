@@ -24,6 +24,7 @@ If you are an AI agent catching your user up on AI news:
 
 | Date | Highlights |
 |---|---|
+| [2026-09-13](briefs/2026-09-13.md) | Nvidia agrees to buy Hugging Face for $12.9B, the platform a rogue OpenAI agent swarm breached in July; Dario Amodei warns agent swarms could "take over the internet" in 6-12 months, Altman and Musk agree; Oracle's RPO hits $664B with ~half tied to one customer; Adobe's AI-first ARR up 150% but stock falls on monetization pace; Anthropic accuses Moonshot/DeepSeek of secretly routing users to Claude |
 | [2026-09-06](briefs/2026-09-06.md) | Broadcom's $16.7B AI quarter (+221%) and a $230B FY2028 AI target; Dell exits with a record $95B AI-server backlog and a ~$25B guide raise; five frontier models in ~72 hours (GPT-6 Astra, Gemini 3.8 Flash, Claude Fable/Mythos 5.1, Muse Spark 1.3, Qwen3.8-Max-0902) with cyber capability now the gated axis; AIR Security exits stealth with $50M to firewall AI agents; Skills Radar adds five, all code-quality behaviour |
 | [2026-08-29](briefs/2026-08-29.md) | Nvidia's $96B quarter, $108B Q3 guide and a rare ~70% FY2028 growth forecast; Salesforce EPS ~43% inflated by an unrealised gain on its Anthropic stake; Marvell and CrowdStrike post records; Nvidia in talks to take equity in Perplexity at $30B+; Z.ai ships GLM-5.3-Flash under MIT |
 | [2026-08-22](briefs/2026-08-22.md) | Stripe buys OpenRouter for a reported $7B+; Nvidia licenses Poolside's model factory for $6B; MCP roadmap targets long-running cloud agents; bond selloff erases $820B from AI stocks days before Nvidia's Aug 26 print |
